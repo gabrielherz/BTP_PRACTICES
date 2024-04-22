@@ -1,0 +1,6 @@
+Primera línea
+Segunda línea,
+Tercera línea
+
+editor activo ahora
+verificación
