@@ -1,6 +1,9 @@
 Primera línea
 Segunda línea,
 Tercera línea
+cuarta línea
 
-editor activo ahora
 verificación
+última línea agregada
+
+último commit agregado luego de un checkout
