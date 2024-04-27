@@ -1,0 +1,4 @@
+Fichero creado desde msi tumbleweed
+
+líneas a insertar.
+
