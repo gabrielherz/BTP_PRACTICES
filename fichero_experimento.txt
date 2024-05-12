@@ -1,1 +1,2 @@
-ta línea fue agregada en master
+ Esta línea ha sido modificada desde máster/main
+
